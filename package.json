@@ -1,6 +1,6 @@
 {
   "name": "rcode5-package-versioning-tester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM Package to test versioning strategies and dist-tags and see how `npm install my-package --tag whatever` may differ from `npm install my-package@whatever` ",
   "main": "index.js",
   "scripts": {
