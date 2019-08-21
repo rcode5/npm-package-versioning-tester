@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const version = require("./index").version;
+const { name, version } = require("./index");
 
-console.log(`Running with package version ${version()}`);
+console.log(`Running with package named ${name()} with version ${version()}`);
