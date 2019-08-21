@@ -3,4 +3,8 @@ function version() {
   return package.version;
 }
 
-module.exports = { version }
+function name() {
+  return package.name;
+}
+
+module.exports = { version, name }
