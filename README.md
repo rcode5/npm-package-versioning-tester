@@ -3,8 +3,6 @@ NPM Package to test versioning strategies and dist-tags and see how `npm install
 
 ## problem statement
 
-In a client project, I noticed the following oddity.
-
 Assume we have a package called `my-package` with the following
 versions sitting in the registry (and their corresponding npm dist-tags):
 
