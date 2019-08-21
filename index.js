@@ -7,4 +7,7 @@ function name() {
   return package.name;
 }
 
-module.exports = { version, name }
+function noop() {
+}
+
+module.exports = { version, name, noop }
