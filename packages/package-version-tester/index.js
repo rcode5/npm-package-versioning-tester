@@ -10,4 +10,7 @@ function name() {
 function noop() {
 }
 
-module.exports = { version, name, noop }
+function noop2() {
+}
+
+module.exports = { version, name, noop, noop2 }
