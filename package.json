@@ -1,8 +1,7 @@
 {
-  "name": "rcode5-package-versioning-tester",
-  "version": "1.1.0",
-  "description": "NPM Package to test versioning strategies and dist-tags and see how `npm install my-package --tag whatever` may differ from `npm install my-package@whatever` ",
-  "main": "index.js",
+  "name": "root",
+  "version": "1.2.3",
+  "description": "NPM Monorepo Package to test versioning strategies and dist-tags and see how `lerna publish` and `npm install my-package --tag whatever` may differ from `npm install my-package@whatever` ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,0 +1,11 @@
+{
+  "name": "rcode5-package-versioning-tester",
+  "version": "2.0.0",
+  "description": "NPM Package to test versioning strategies and dist-tags and see how `npm install my-package --tag whatever` differ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jon rogers <jon@rcode5.com>",
+  "license": "WTFPL"
+}
