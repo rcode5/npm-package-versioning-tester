@@ -13,4 +13,7 @@ function noop() {
 function noop2() {
 }
 
-module.exports = { version, name, noop, noop2 }
+function noop3() {
+}
+
+module.exports = { version, name, noop, noop2, noop3 }
